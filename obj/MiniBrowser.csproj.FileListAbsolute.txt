@@ -1,8 +1,0 @@
-F:\Mis Documentos\Visual Studio 2005\Projects\Practicas Desarrollador .NET\MiniBrowser\bin\Debug\MiniBrowser.exe
-F:\Mis Documentos\Visual Studio 2005\Projects\Practicas Desarrollador .NET\MiniBrowser\bin\Debug\MiniBrowser.pdb
-F:\Mis Documentos\Visual Studio 2005\Projects\Practicas Desarrollador .NET\MiniBrowser\obj\Debug\ResolveAssemblyReference.cache
-F:\Mis Documentos\Visual Studio 2005\Projects\Practicas Desarrollador .NET\MiniBrowser\obj\Debug\MiniBrowser.Form1.resources
-F:\Mis Documentos\Visual Studio 2005\Projects\Practicas Desarrollador .NET\MiniBrowser\obj\Debug\MiniBrowser.Properties.Resources.resources
-F:\Mis Documentos\Visual Studio 2005\Projects\Practicas Desarrollador .NET\MiniBrowser\obj\Debug\MiniBrowser.csproj.GenerateResource.Cache
-F:\Mis Documentos\Visual Studio 2005\Projects\Practicas Desarrollador .NET\MiniBrowser\obj\Debug\MiniBrowser.exe
-F:\Mis Documentos\Visual Studio 2005\Projects\Practicas Desarrollador .NET\MiniBrowser\obj\Debug\MiniBrowser.pdb
