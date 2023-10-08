@@ -1,0 +1,9 @@
+MiniBrowser.csproj
+MiniBrowser.sln
+MiniBrowser.suo
+.gitattributes
+Properties/
+bin/
+obj/
+App.config
+.vs/
